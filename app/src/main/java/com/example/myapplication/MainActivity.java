@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private RecyclerView recyclerView;
     private ArrayList<Animal> animals = new ArrayList<>();
     private AnimalAdapter animalAdapter;
